@@ -29,17 +29,17 @@ Daha temiz ve güvenli bir bağlantı deneyimi için URL kısaltıcılarını ve
 ### İndir
 
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/GitHub.svg"
-alt='GitHub'dan edinin'
+alt='Get it on GitHub'
 height="80">](https://github.com/WSTxda/Clippy/releases/latest)
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/Telegram.svg"
-alt='Telegram'dan edinin'
+alt='Get it on Telegram'
 height="80">](https://t.me/WSTprojects)
 
 ### Bağış Yap
 
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/PayPal.svg"
-alt='PayPal ile bağış yapın'
+alt='Donate with PayPal'
 height="80">](https://bit.ly/2lV0E6u)
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/BMC.svg"
-alt='BMC ile bağış yapın'
+alt='Donate with BMC'
 height="80">](https://www.buymeacoffee.com/wstxda)
